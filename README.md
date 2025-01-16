@@ -1,5 +1,4 @@
-### <div align="center">Hi, I'm Rick, a back-end developer 👨‍💻, a senior in college and in the middle of an internship 🚀.</div>  
-  
+### <div align="center">Hi, I'm Rick, a developer 👨‍💻 and a senior student, currently doing an internship🚀.</div>    
 
 - 🔭 I am currently involved in a Telematics project  
   
