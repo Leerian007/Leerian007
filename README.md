@@ -1,17 +1,7 @@
 ### <div align="center">Hi, I'm Rick, a developer 👨‍💻 and a senior student, currently doing an internship🚀.</div>    
 
 - 🔭 I am currently involved in a Telematics project  
-  
-
-- 🌱 I’m currently learning Rust And Java  
-  
-
-- ❓ Ask me about anything related to Java and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+   
 <br/>  
 
 
