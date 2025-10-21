@@ -1,21 +1,10 @@
-### <div align="center">Hi, I'm Rick, a developer 👨‍💻 and a senior student, currently doing an internship🚀.</div>    
+### <div align="center">Hi, I'm Rick, a developer 👨‍💻. Working on IoV systems | Learning Rust.</div>    
 
-- 🔭 I am currently involved in a Telematics project  
-   
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-</div>
-
-</td><td valign="top" width="33%">
-
 
 
 ### Backend  
